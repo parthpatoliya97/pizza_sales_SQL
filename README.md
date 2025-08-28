@@ -2,6 +2,7 @@
 ![piiza restaurant](https://thumbs.dreamstime.com/b/delicious-pizza-table-restaurant-ai-generative-design-background-instagram-facebook-wall-painting-wallpaper-photo-324132045.jpg)
 
 ### Topics that are covered
+- Fetching data from tables
 - JOINS
 - CTE (Common Table Expressions)
 - Aggregate Functions 
